@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// created variable number 1
+// number++ adds 1
+// number is equal to 2
+// would console.log yes
 
 //CODE
 /*
@@ -45,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// Created variable name with value Dane
+// comparing if Dane is stricly equal to Mary
+// If equal log Hi , Mary! , if not equal log How do you do?
+// Its not equal so it will log How do you do?
 
 //CODE
 /*
@@ -70,10 +70,10 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+//  Created variable secret as undefined and code with value 123
+//  Check if code is equal to 123 if true assign value super to secret
+//  Change value of code to code * 2 = 246
+//  Code is less that 250 so variable secret would have value of super.
 
 //CODE
 /*
@@ -91,7 +91,14 @@ if (isStudent === true && zip > 80000 ) {
   console.log('How about the weather?')
 }
 
+// Created 3 variables (isStudent, age, zip) with values
+// isStudent is equal to true but zip is less than 8000 so go to next line
+// isStudent is not equal to false so go to next line
+// isStudent is equal to true so log 'Welcome to Prime'
+// 
+
 */
+
 
 
 
@@ -130,12 +137,12 @@ if (number >= 2) {
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
 /*
-let colorOne = 'red';
-let colorTwo = 'blue';
+let colorOne = 'red';    //Fix colorOne = 'blue'
+let colorTwo = 'blue';   //Fix colorTwo = 'red'
 let mix = true;
 
 if (mix === true) {
-  colorOne = 'purple';
+  colorOne = 'purple';   //fix add colorTwo = 'purple';
 }
 */
 
@@ -146,6 +153,8 @@ if (mix === true) {
 /*
 let temp = 40;
 const time = 4;
+
+//fix change ||(or) to &&(and)
 
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
@@ -165,5 +174,10 @@ if(minAge <= age) {
 } else {
   console.log('enter');
 }
+
+// The if statement is correct so we would change the value to 'enter' and 
+change the else statement value to 'no entry' so we would console.log 'enter'
 */
+
+
 
